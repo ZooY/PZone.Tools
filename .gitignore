@@ -1,0 +1,9 @@
+*.suo
+PZone Tools/.vs/
+PZone Tools/Image Resizer/bin/
+PZone Tools/Image Resizer/obj/
+PZone Tools/packages/
+Source/.vs/
+Source/Image Resizer/bin/
+Source/Image Resizer/obj/
+Source/packages/
